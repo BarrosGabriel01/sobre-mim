@@ -16,6 +16,15 @@ body{
     padding: 10% 8%;
     gap: 82px;
 }
+.apresentacao-titulo{
+    font-size: x-large;
+    font-family: "montserrat", sans-serif;
+}
+.conteudo-texto{
+    font-family: "montserrat", sans-serif;
+    font-size: large;
+}
+
 .apresentacao-conteudo{
     width: 50%;
     display: flex;
